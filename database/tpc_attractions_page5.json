@@ -1,0 +1,2685 @@
+{
+  "total": 445,
+  "data": [
+    {
+      "id": 264,
+      "name": "臺灣大學",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "校內處處可見古蹟、歷史建築，整體校區規劃是分明的東西軸向設計，椰林大道兩側種植大王椰子，旁有杜鵑花，兩旁和校舍之間則為樟樹和龍柏。\r\n\r\n走在椰林大道上，兩旁綠蔭拱著日出，有種邁向康莊大道之感，是城市內很特殊的日出景點。農學院附近有很多水生植物、蔬菜水果、香草的園圃，實驗農場還有些有趣的生態復育觀察，而校園附近的巷弄則圍繞著主流書店與獨立小書店，讓臺大周邊瀰漫著濃厚的人文氣氛，書店間也伴隨著咖啡文化，瀰漫濃厚人文氣氛。",
+      "open_time": "全天開放",
+      "zipcode": "106",
+      "distric": "大安區",
+      "address": "106 臺北市大安區羅斯福路4段1號",
+      "tel": "+886-2-33663366",
+      "fax": "+886-2-23627651",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.01735,
+      "elong": 121.53973,
+      "official_site": "http://www.ntu.edu.tw",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2020-11-05 17:45:33 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/264",
+      "category": [
+        {
+          "id": 13,
+          "name": "歷史建築"
+        },
+        {
+          "id": 15,
+          "name": "藝文館所"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        },
+        {
+          "id": 25,
+          "name": "無障礙旅遊推薦景點"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 62,
+          "name": "校外教學"
+        }
+      ],
+      "service": [
+        {
+          "id": 141,
+          "name": "無障礙設施"
+        },
+        {
+          "id": 144,
+          "name": "餐飲"
+        },
+        {
+          "id": 145,
+          "name": "購物"
+        },
+        {
+          "id": 146,
+          "name": "公廁"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/65401",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/163621",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/163622",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/163623",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/163624",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1739,
+      "name": "松菸小賣所",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "「理葉、捲菸、包裝、出貨」70年的製菸歲月，留下的不只是令人驚豔的菸廠建築，還有隱藏於內的濃濃人情味。\r\n\r\n過去的松菸承載著上千個家庭的幸福，深刻反應出跨時代的人文風情；2011年這裡被定位為臺北的原創基地，正式命名為「松山文創園區」。現在，我們延續著這份人情味，結合文創力，轉化成承載夢想的平台，成立「松菸小賣所」文創共好平台。\r\n\r\n\r\n\r\n松菸小賣所結合了園區的服務中心、文創商品展售平台、復刻歷史記憶區及輕食咖啡休憩區。古老的製菸空間轉變為嶄新的文創櫥窗，清幽的菸草氣味轉變為濃郁的咖啡香氣，讓民眾體驗松菸歷史，感受文創生活，品嚐特色餐飲！\r\n\r\n\r\n此外，松菸小賣所亦兼具著共享空間之概念，將定期邀請所有文創品牌與新秀與民眾面對面交流，分享創作概念，體驗品牌精神，實踐文創共好平台之目的。另外共好平台將更進一步，將目前正在園區接受育成輔導的文創業者，提供上架的機會，鼓勵文創業者與目標消費者進行交流，進而刺激育成之文創業者的銷售經驗。\r\n\r\n\r\n\r\n資料來源：松菸小賣所官方網站",
+      "open_time": "",
+      "zipcode": "110",
+      "distric": "信義區",
+      "address": "110 臺北市信義區光復南路133號",
+      "tel": "",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.04381,
+      "elong": 121.56121,
+      "official_site": "https://www.songshanculturalpark.org/cms/Gallery/",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2020-11-05 17:06:41 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1739",
+      "category": [
+        {
+          "id": 15,
+          "name": "藝文館所"
+        },
+        {
+          "id": 25,
+          "name": "無障礙旅遊推薦景點"
+        }
+      ],
+      "target": [],
+      "service": [
+        {
+          "id": 141,
+          "name": "無障礙設施"
+        },
+        {
+          "id": 142,
+          "name": "DIY服務"
+        },
+        {
+          "id": 143,
+          "name": "場地租用"
+        },
+        {
+          "id": 144,
+          "name": "餐飲"
+        },
+        {
+          "id": 145,
+          "name": "購物"
+        },
+        {
+          "id": 146,
+          "name": "公廁"
+        },
+        {
+          "id": 147,
+          "name": "停車場"
+        },
+        {
+          "id": 148,
+          "name": "失物招領"
+        },
+        {
+          "id": 149,
+          "name": "廣播服務"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/177897",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/177898",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/177899",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/177900",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/177901",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/177902",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/177896",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 396,
+      "name": "幾米月亮公車",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "為響應臺北市政府所推行「2016 世界設計之都」的理念，房仲企業與插畫家幾米合作，以繪本《月亮忘記了》為主題，設計出幾米月亮公車。「幾米月亮公車」由熊熊司機領航，從「遺忘站」開往「記住站」，裡頭搭載了抱著圓月的小男孩，車廂中充滿五彩繽紛的魔法書與活潑有趣的小角色，公車後方還有一顆顆反射出週遭景象的微笑星球，而車頂站著一個可愛的藍色小童，他雙手高舉著黃澄澄的微笑月亮，用溫暖撫慰了黑暗中孤寂的人心。\r\n\r\n&nbsp;\r\n\r\n幾米月亮公車鄰近台北101，不但交通便利，附近也有許多景點相鄰，且溫柔清新的幾米風格吸引眾多的觀光人潮，成為台北101附近最可愛的必遊新興景點之一。開放時間為每天的9：00到21：00，不論是白天或夜晚，都可以感受到幾米月亮公車所帶來的溫暖。\r\n\r\n&nbsp;",
+      "open_time": "每天9：00-21：00，每週一為清潔日不開放",
+      "zipcode": "110",
+      "distric": "信義區",
+      "address": "110 臺北市信義區信義路五段100號",
+      "tel": "",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.03267,
+      "elong": 121.56572,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2020-11-05 16:59:11 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/396",
+      "category": [
+        {
+          "id": 15,
+          "name": "藝文館所"
+        },
+        {
+          "id": 18,
+          "name": "公共藝術"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/65906",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/176945",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/176946",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65894",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65895",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65905",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 32,
+      "name": "台北當代藝術館",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "台北當代藝術館為古蹟建築，紅磚表面，木造屋架，垂直長條型的窗，黑瓦洋風斜屋頂，在日據時期是臺北市建成小學校校舍，臺灣光復後為臺北市政府辦公處，1994年臺北市政府遷往信義計畫區，市府大樓正面建築作為美術館使用，東、西側兩翼部份為建成國中校舍。\r\n\r\n美術館名稱本為「臺北第二美術館」，後由「北美館」獨立出來，在2000年正式更名為「台北當代藝術館」，展示各種當代藝術作品。為更讓民眾理解作品內涵，館內提供免費語音導覽下載、免費語音導覽借用、免費團體導覽服務，週末有座談會、系列演講、工作坊活動，不時舉辦研習營，歡迎民眾報名參加。",
+      "open_time": "每周一休館，每周二至周日開放時間為10:00 - 18:00，且售票於當日17:30停止服務。",
+      "zipcode": "103",
+      "distric": "大同區",
+      "address": "103 臺北市大同區長安西路39號",
+      "tel": "+886-2-25523721",
+      "fax": "+886-2-25593874",
+      "email": "services@mocataipei.org.tw",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.05072,
+      "elong": 121.51892,
+      "official_site": "http://www.mocataipei.org.tw/",
+      "facebook": "https://www.facebook.com/TaipeiMOCA/",
+      "ticket": "參考門票資訊連結",
+      "remind": "參觀台北當代藝術館時，請您務必遵守以下事項，以維護展覽空間及展出作品之品質與完整性，同時給您自己以及他人愉快的觀展經驗，台北當代藝術館感謝您的配合。\r\n\r\n1.請勿於展場內使用行動電話進行談話。\r\n2.請勿於展場內高聲談笑、追逐嬉戲、飲食、吸煙及拋棄紙屑、雜物。\r\n3.服裝不整、攜帶寵物者謝絕進入參觀。(導盲犬除外)\r\n4.請配合將長寬大於A4尺寸(21cm*30cm)、厚度超過9公分的隨身行李及包包置放於寄物處，若有現金及貴重物品，台北當代藝術館提供輕巧手提袋，請洽服務台索取。\r\n5.台北當代藝術館目前全面開放攝影，為維護現場觀展品質，請勿使用閃光燈、自拍棒、腳架及錄影，展場工作人員亦不提供攝影服務。不便之處敬請見諒。同時請尊重藝術家之智慧財產權及作品版權所有。",
+      "staytime": "",
+      "modified": "2020-11-05 16:49:23 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/32",
+      "category": [
+        {
+          "id": 13,
+          "name": "歷史建築"
+        },
+        {
+          "id": 15,
+          "name": "藝文館所"
+        },
+        {
+          "id": 20,
+          "name": "北北基景點"
+        },
+        {
+          "id": 25,
+          "name": "無障礙旅遊推薦景點"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 62,
+          "name": "校外教學"
+        }
+      ],
+      "service": [
+        {
+          "id": 141,
+          "name": "無障礙設施"
+        },
+        {
+          "id": 144,
+          "name": "餐飲"
+        },
+        {
+          "id": 145,
+          "name": "購物"
+        },
+        {
+          "id": 146,
+          "name": "公廁"
+        },
+        {
+          "id": 150,
+          "name": "寄物櫃"
+        },
+        {
+          "id": 152,
+          "name": "育嬰服務"
+        }
+      ],
+      "friendly": [
+        {
+          "id": 387,
+          "name": "英語友善"
+        },
+        {
+          "id": 388,
+          "name": "日語友善"
+        },
+        {
+          "id": 390,
+          "name": "行動裝置充電"
+        },
+        {
+          "id": 392,
+          "name": "無障礙友善服務"
+        },
+        {
+          "id": 393,
+          "name": "性別友善"
+        },
+        {
+          "id": 394,
+          "name": "信用卡/悠遊卡/第三方支付服務"
+        },
+        {
+          "id": 398,
+          "name": "WiFi友善"
+        },
+        {
+          "id": 400,
+          "name": "哺(集)乳友善"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/63661",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63662",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63663",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": [
+        {
+          "src": "https://www.mocataipei.org.tw/tw/Visit/%E6%99%82%E9%96%93%E8%88%87%E7%A5%A8%E5%83%B9",
+          "subject": "門票資訊"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "name": "大稻埕街區_迪化街店屋",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "淡水河曾經是條既深且廣的大河，但是後來隨著上游地區有人居住墾殖，下游漸漸淤積。在這段興衰史中，艋舺曾經是最早的臺北港，1853年頂下郊拼後，閩南三邑人將閩南同安人趕出艋舺，於是這些同安人落腳大稻埕，孰料風水輪轉，艋舺港口淤積後，大稻埕取而代之成為主要貿易港口，此時正逢與大陸和西方通商的極盛時期，因此大稻埕一帶成為非常繁榮的商業區。\r\n\r\n當年沒有河堤，貴德街就直接面河，渡海而來的大陸南北貨下船後，就在貴德街後面的迪化街陳列販賣，很多迪化街商人都因貿易而成一時鉅富，他們蓋的房子就格外漂亮，這些房子為了適應臺灣多雨的天氣都有騎樓，但是房屋對外的牆面卻多為仿西式建築的裝飾，造成獨特的中西式混合的建築。這些老店屋最大的特色，就是店屋深度的十分狹長，前面做為店鋪之用，後頭就是工廠或倉庫，呈現早期聚集式街屋的獨特色。",
+      "open_time": "開放空間",
+      "zipcode": "103",
+      "distric": "大同區",
+      "address": "103 臺北市大同區迪化街1段",
+      "tel": "+886-2-29603456",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.06086,
+      "elong": 121.50926,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2020-11-05 16:47:33 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/105",
+      "category": [
+        {
+          "id": 13,
+          "name": "歷史建築"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        }
+      ],
+      "service": [
+        {
+          "id": 146,
+          "name": "公廁"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/182613",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182614",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182615",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182616",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182617",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182618",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182619",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182620",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182621",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182622",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182623",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182624",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182607",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182608",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182609",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182610",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182611",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182612",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1861,
+      "name": "文水藝文中心",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "文水藝文中心成立於2012年台北市南京東路的商業大樓中，是台灣少見的小型音樂會場地。秉持著打造人文與藝術匯集的音樂殿堂，提供台灣音樂家與觀眾最優質的服務。 中心設有兩個展演空間，表演廳專位古典音樂所設計，設有108席，感受零距離的音樂饗宴；溫馨典雅的沙龍廳可容納50人，適合小型發表會、茶會、酒會等活動，延展表演廳的交誼功能。 提供的服務包含「文水表演廳」、「文水沙龍廳」租借、使用和申請。",
+      "open_time": "週一至週五 10:00~19:00",
+      "zipcode": "104",
+      "distric": "中山區",
+      "address": "104 臺北市中山區南京東路二段124號9樓",
+      "tel": "+886-2-25019888",
+      "fax": "+886-2-25093789",
+      "email": "wenshui.date@gmail.com",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.05175,
+      "elong": 121.53335,
+      "official_site": "http://www.wenshui.com.tw/tw/about/room.html",
+      "facebook": "https://www.facebook.com/wenshui.com.tw/",
+      "ticket": "",
+      "remind": "",
+      "staytime": "30分鐘",
+      "modified": "2020-11-05 16:19:37 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1861",
+      "category": [
+        {
+          "id": 15,
+          "name": "藝文館所"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 91,
+      "name": "台北啤酒工場",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "歷史沿革\r\n台北啤酒工場的前身為「日本高砂麥酒株式會社」，創立於1919年，是日治時代台灣唯一的啤酒工廠。1945年由政府接管後，隸屬於台灣省菸酒公賣局「第二酒廠」，1975年更名為「建國啤酒廠」，期間經過改良釀造技術更新製造設備，添建新式廠房，產量與年俱增，最高曾達到年產1200萬打啤酒的輝煌紀錄。1997年7月1日起，建國啤酒廠與復興啤酒廠兩廠合併為一，建國廠成為復興啤酒廠的建國廠區，廠務由復興廠管理。2000年6月台北市政府指定「建國啤酒廠」為第95號市定古蹟，保留下全國最重要的啤酒產業文化資產，並朝「啤酒文化園區、產業活化保存」的方向邁進。2001年4月「建國廠區」廠務改由「瓶蓋工場」管轄，2002年台灣省菸酒公賣局改制為台灣菸酒股份有限公司，「建國廠區」同時更名為「台北啤酒工場 」，2003年11月「台北啤酒工場 」改由「竹南啤酒廠 」管轄，2107年4月30日台灣菸酒股份有限公司為周延文化保存、善盡社會責任，以任務編組方式，將台北啤酒工場業務獨立於啤酒事業部管轄，暫成立為「台北啤酒文化園區管理處」，俾能更專責辦理台灣啤酒文化保存之工作，並於2008年7月1日獨立建制為台北啤酒工場。\r\n\r\n廠址與面積\r\n台北啤酒工場舊地址為台灣臺北市中正路1407號，臺北市改制後改為現行地址為10455臺北市八德路二段85號。土地面積為52,630平方公尺。都市計劃為第三種工業區。台北啤酒工場的廠房包含，糖化大樓、醱酵大樓、貯酒大樓、包裝工場、成品倉庫、行政大樓、修護工場及福利樓房。建築面積有25,627.71平方公尺，總樓地板面積34,638.91平方公尺。\r\n\r\n文化保存\r\n台北啤酒工場是台灣唯一具歷史價值之啤酒工廠，啤酒在台灣各種酒類中屬道道地地的舶來品到現在才不過百餘年歷史。帝國主義時期為供應殖民地的僑民飲用而輸入外國的啤酒，並在市場上銷售。台灣是先有啤酒才有啤酒廠。國外資本家利用我國的廉價原料與勞動人力，開始在台灣建立啤酒廠。\r\n\r\n未來展望\r\n產業保存暨古老建築再利用，世界進步的國家都有良好例子。例如日本北海道扎幌的「啤酒紀念館」，原是鑒於1890年磚造的國營啤酒廠，1966年經歷內部整修成為啤酒屋「扎幌啤酒苑」，現已成為扎幌市聖地。\r\n\r\n「台北啤酒工場」佔地廣闊，為讓重要文化產業---台灣啤酒發源地「台北啤酒工場」，保存流傳後世，保留現有生產線繼續生產，其他部分做有系統規劃，對其建築風格與原來功能，重新規劃為結合生產、觀光、商業、文化與休閒等多用途特區，以符合現代化進步都市的發展潮流，讓台北市成為一個有特色的城市。\r\n\r\n(文字參考/台北啤酒工場官方網站)",
+      "open_time": "全年無休(除夕例外)，每日上午9點~下午5點",
+      "zipcode": "104",
+      "distric": "中山區",
+      "address": "104 臺北市中山區八德路2段85號",
+      "tel": "+886-2-27719131",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.04592,
+      "elong": 121.53573,
+      "official_site": "https://event.ttl.com.tw/tp/",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2020-11-05 16:06:37 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/91",
+      "category": [
+        {
+          "id": 13,
+          "name": "歷史建築"
+        },
+        {
+          "id": 15,
+          "name": "藝文館所"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 62,
+          "name": "校外教學"
+        }
+      ],
+      "service": [
+        {
+          "id": 146,
+          "name": "公廁"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/112810",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/112811",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/112809",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1804,
+      "name": "王大閎建築劇場",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "王大閎建築劇場曾經位於建國南路巷弄內的王大閎建築師自宅，如今已拆毀。2017年由「王大閎建築研究與保存學會」摹擬重建於臺北市立美術館南側美術公園，並捐贈予臺北市政府進行研究與推廣教育。2018年臺北市立美術館以「王大閎建築劇場」的型態啟動營運，期待能作為觀眾認識王大閎及其自宅的關鍵基地，並成為推動臺灣建築史與引介建築美學的展演實驗平台。\r\n\r\n由北美館啟動的「王大閎建築劇場」，同時放進了「建築」與「劇場」兩個元素，可以解讀為「建築（本身作為一種上演生活的）劇場」，也可以將「建築」當作動詞，解讀成「建築（一個）劇場」。此處的「劇場」有別於一般有舞台、座位、演員、觀眾等對劇場實體空間的認識，概念上更接近於去建構一個不同於現實世界的空間，讓觀眾走進去親身經歷，並建構其獨特的觀賞經驗。\r\n\r\n\r\n王大閎書軒 DH Caf&eacute;\r\n位於「王大閎建築劇場」旁的複合式藝文空間，特選建築藝術讀物、咖啡輕食，並結合微型展覽、主題式沙龍講座，希望再現建築師書房的典雅與專業，宅邸廳堂中人文薈萃、思維流動的豐富景色。\r\n\r\n文字來源：臺北市立美術館網站",
+      "open_time": "每周二至周日9:30至17:30，民眾可自由免費參觀。",
+      "zipcode": "104",
+      "distric": "中山區",
+      "address": "104 臺北市中山區中山北路三段181號",
+      "tel": "",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.07259,
+      "elong": 121.52485,
+      "official_site": "https://www.tfam.museum/Common/editor.aspx?id=235&ddlLang=zh-tw",
+      "facebook": "https://www.facebook.com/DHCafe2018/",
+      "ticket": "自由免費參觀",
+      "remind": "",
+      "staytime": "",
+      "modified": "2020-11-05 15:33:08 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1804",
+      "category": [
+        {
+          "id": 15,
+          "name": "藝文館所"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/112768",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/112769",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/112760",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/112761",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/112762",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/112763",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/112767",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1863,
+      "name": "秋刀魚藝術中心",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "秋刀魚藝術中心位於台北大內藝術特區，是大直重劃區裡的第一家畫廊。2003 年成立至今，在當代藝術的推廣與實踐上深受肯定，更於2013、2014、2016年榮獲英國線上媒體『Culture Trip』選為台北十大最佳當代畫廊。目前經紀代理多位台灣與中國當代藝術家，作品廣為美術館和藏家收藏。除了參展亞太博覽會外，畫廊於2016年首次進軍倫敦全球藝術博覽會，受到外媒關注，也吸引了倫敦策展人青睞，受邀參加薩奇畫廊舉辦的START藝術博覽會。",
+      "open_time": "週二至週六 13:00~19:00 , 週一休館，週日採預約制",
+      "zipcode": "104",
+      "distric": "中山區",
+      "address": "104 臺北市中山區基湖路137號一樓",
+      "tel": "+886-2-25323800",
+      "fax": "",
+      "email": "info@fishart.com.tw",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.07839,
+      "elong": 121.56414,
+      "official_site": "http://www.fishart.com.tw",
+      "facebook": "https://www.facebook.com/pg/fishart.center/about/?ref=page_internal",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2020-11-05 15:30:07 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1863",
+      "category": [
+        {
+          "id": 15,
+          "name": "藝文館所"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 236,
+      "name": "原民生活美學館",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "在臺北首善之都，原民風味館配合美術園區藝文廊帶的規劃，在104年底轉型為原民生活美學館，在都會區展現原住民的食衣住行，到了105年，原民生活美學館用嶄新的面貌在藝術品呈現上更上一層樓，藉由更專業的策展團隊讓大家可以更貼近地看見原住民藝術家的作品，已經具備與國際接軌的能量。\r\n\r\n歷經產業平台與美食經營等營運模式後，原民生活美學館用全新的裝扮邀請大家前來分享它的成長，臺北市要成為全國第一個原民文化與國際接軌的平台，要讓全世界的朋友們認識臺灣原住民族文化的美麗，以及藝術產業的實力。\r\n\r\n場館提供服務內容:\r\n◆1 樓空間：\r\n1.藝術策展區：每季一檔展覽，邀集原住民界藝術家，在台北城重現淬練後的部落心跳。\r\n2.音樂體驗區：透過與原民音樂家的連結及原民傳統樂器體驗區，讓參觀民眾深入認識原民樂器文化。\r\n3.原風輕食區：由原民青年創業團隊經營輕食餐飲及原民文創產業。\r\n\r\n◆2 樓空間：\r\n1.原風手作區：原民手工藝傳承教學、DIY體驗互動。\r\n2.駐館藝術家創作區：每季邀請藝術家駐館現場創作，透過教學觀摩座談等互動形式讓民眾認識、欣賞原民藝術文化。\r\n\r\n◆動態表演藝術創意：搭配靜態展覽的各季主題規劃，每月辦理2場以上動態表演。\r\n\r\n◆風味館行銷推廣：包含玩體驗推廣教育計畫、原民文化校外教學參觀體驗、原民與國際觸動活動、國際原民食藝文化體驗活動、動態表演藝術競賽、文創生活美學市集等。\r\n\r\n本會原民風味館轉型為原民生活美學館，除了延續過去舉辦的各類動態表演藝術和好感手作體驗，以傳統元素和現代潮流相結合，將原住民信仰文化意涵融入於參訪者的日常生活，未來更將開啟與太平洋國際藝術創作的交流活動，創造一個有助於海島藝術探索的環境，鼓舞各類藝術創作的最大可能，並擴大、拉長新的連線與網絡，提升整體原民藝文意識，綻放原住民族藝術在國際舞台的光芒。\r\n\r\n\r\n",
+      "open_time": "每週二至每週日 11:00-19:00（若因配合重要節慶調整開放時間，請依官網公告為準。)\r\n",
+      "zipcode": "104",
+      "distric": "中山區",
+      "address": "104 臺北市中山區中山北路三段151號",
+      "tel": "+886-2-25992655",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.07074,
+      "elong": 121.52451,
+      "official_site": "",
+      "facebook": "https://www.facebook.com/Taiwan.PAF/",
+      "ticket": "",
+      "remind": "1、美術館停車場免費：\r\n停車場之開放時間週二至週日早上9:20到晚上7:00，週六開放至晚上10點，週一不開放。\r\n2、若因配合重要節慶調整開放時間，請依官方粉絲團公告為準。",
+      "staytime": "",
+      "modified": "2020-11-05 15:29:09 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/236",
+      "category": [
+        {
+          "id": 15,
+          "name": "藝文館所"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [],
+      "service": [
+        {
+          "id": 146,
+          "name": "公廁"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/64832",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/64847",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/64850",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/64855",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/64856",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/64865",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 30,
+      "name": "臺北市立美術館",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "1983年開館，是臺灣首座現代美術館，空間與展品的規劃新潮活潑，結合民眾生活與美術賞析。館內空間包含地下1層及地面3層，地下樓主要提供年輕藝術家及團體展、競賽展，附設圖書及餐飲等服務。1樓除了入口大廳，展覽室6公尺高的大型牆面及3層樓挑高的寬敞空間，主要用於國內外重要大型展覽；2樓常設展區依照美術史架構或主題，展出各項館藏。3樓明亮的採光與雙十字型交錯空間則以主題展覽為主。\r\n\r\n建築物由高而潘建築師所設計。除了展覽，館方不定期舉辦研討及假日親子活動，製造美術館與民眾互動的機會，更拉近藝術與生活的距離。現更推出週六夜間開館，為營造夜間時段濃厚的藝術氣氛，美術館也特別增加館體及戶外雕塑照明，廣場上的大型青銅雕塑「朱銘－太極拱門」和紅色不鏽鋼「李再鈐－紅不讓」都成為中山北路夜間的美麗視覺焦點。",
+      "open_time": "週一 休館\r\n週二至週日 9:30-17:30\r\n週六 9:30-20:30\r\n週六17:00後免票參觀",
+      "zipcode": "104",
+      "distric": "中山區",
+      "address": "104 臺北市中山區中山北路3段181號",
+      "tel": "+886-2-25957656",
+      "fax": "+886-2-25944104",
+      "email": "info@tfam.gov.tw",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.07196,
+      "elong": 121.52437,
+      "official_site": "http://www.tfam.museum/",
+      "facebook": "https://www.facebook.com/taipeifineartsmuseum?ddlLang=zh-tw",
+      "ticket": "",
+      "remind": "▲展場內請勿攜帶食物、飲料、雨傘、寵物入場。 \r\n▲展場內禁止觸摸展品。\r\n▲入館參觀請遵守參觀秩序，共同維持參觀品質。\r\n▲為維護展場參觀品質及安全，入場參觀前請收妥您的自拍設備。\r\n▲展覽作品除特殊聲明外，原則上同意在不使用閃光燈及腳架之情況下適度開放拍照。\r\n▲展演活動觀展詳情即時公告於最新消息。",
+      "staytime": "",
+      "modified": "2020-11-05 15:18:00 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/30",
+      "category": [
+        {
+          "id": 15,
+          "name": "藝文館所"
+        },
+        {
+          "id": 18,
+          "name": "公共藝術"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        },
+        {
+          "id": 20,
+          "name": "北北基景點"
+        },
+        {
+          "id": 25,
+          "name": "無障礙旅遊推薦景點"
+        }
+      ],
+      "target": [],
+      "service": [
+        {
+          "id": 141,
+          "name": "無障礙設施"
+        },
+        {
+          "id": 144,
+          "name": "餐飲"
+        },
+        {
+          "id": 145,
+          "name": "購物"
+        },
+        {
+          "id": 146,
+          "name": "公廁"
+        },
+        {
+          "id": 149,
+          "name": "廣播服務"
+        },
+        {
+          "id": 150,
+          "name": "寄物櫃"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/175616",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/175617",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/175618",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/175619",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/175620",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/175621",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/175623",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/175047",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": [
+        {
+          "src": "https://www.tfam.museum/Common/editor.aspx?id=230&ddlLang=zh-tw",
+          "subject": "參觀時間及門票資訊"
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "name": "學學 XUE XUE",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "學學(XUE XUE) 創立緣起\r\n\r\n創立緣起\r\n有感於臺灣人文思維與經濟產業轉型過程中，社會對「文化創意學習平臺」的渴望，實聯集團董事長林伯實、徐莉玲夫婦因此動念成立「學學」。在2005年9月邀集臺灣文化創意產學界菁英共同成立了以「文化」、「創意」為核心價值，以「教育」、「研究」、「展覽」、「顧問」、「育成」為業務內容的學學，在藝術、設計、哲學、科技、經濟社群間，搭建起學習與溝通的橋樑。它所提供的跨界交流，將影響著年輕人的未來！這正是學學成立的時代場景：從生活與工作兩端，人們迫切需要豐厚、滋潤的文化感受能力－文化與美感的體驗，企業也開始學習如何運用「文化資本」，從文化中尋找創意商機。\r\n\r\n命名由來\r\n「學學」二字的命名，來自最悠久的東方素樸人倫思想，典故語出《禮記》〈學記〉篇：「雖有嘉肴，弗食，不知其旨也；雖有至道，弗學，不知其善也。是故學然後知不足，教然後知困；知不足，然後能自反也知困，然後能自強也。故曰，教學相長也，兌命曰，學學半，其此之謂乎」。\r\n\r\n「學學」意喻：「教人和學習各占學問的一半」。學學期待的是：每一間教室裡的學生，可能是另一間教室裡的老師；而每一間教室裡的老師，也可能是另一間教室裡的學生，師生互相學習、結識交流、互為客戶的跨業合作，這正順應出臺灣產業轉型中就業市場裡各行各業藉助文化創意產業「跨界加值」的龐大需求。\r\n\r\n經營理念\r\n學學的理念不只是提供文化創意學習也提供藝術設計展覽的多元啟發，為的是要分享藝術家、設計師的心路與哲思，這些體驗與創思整合在學學的空間裡，得以引動人們無限的想像與省思，鼓勵人們向不同領域的老師學習、與藝術設計接觸對話，透過跨領域互動的遇合與感悟，得到靈光乍現的創意靈感！\r\n\r\n業務內容\r\n‧ 文化創意新創投資\r\n‧ 文化創意品牌顧問\r\n‧ 文化創意商品開發\r\n‧ 文化創意餐廳經營\r\n\r\n學學相關證照及營運\r\n‧ 文化創意產業育成機構\r\n產業育成業系指為「孕育事業、產品、技術及協助企業轉型，提供企業空間、設備、技術、資金、管理諮詢服務或人才培育之事業。」\r\n‧ 學學投資文化創意產業的新創公司，並從事企業品牌顧問工作\r\n‧ 文化創意產業職能訓練中心\r\n職能訓練中心系指「為鼓勵企業與在職勞工進修學習，持續提升工作必備職能，發展符合產業需求的能力，確實促進產業發展及提升國家競爭力。」\r\n‧ 學學開設文化創意產業職能訓練課程，承辦政府勞動部文化創意人才培訓委託案\r\n‧ 學校合作教學場所\r\n學學所在建築物為臺北市政府都發局許可之D5休閒文教類使用建物。\r\n‧ 學學教室為正式的合格教學場所，可與各級學校合作\r\n\r\n學學樓層簡介\r\n10F&nbsp;&nbsp; &nbsp;學學文化創意基金會\r\n學學國際文化創意事業股份有限公司\r\n8F&nbsp;&nbsp; &nbsp;學學文化創意聚落\r\n7F&nbsp;&nbsp; &nbsp;學學白色展覽空間\r\n6F　學學展覽空間\r\n5F&nbsp;&nbsp; &nbsp;學學文化創意教室\r\n4F&nbsp;&nbsp; &nbsp;學學文化創意教室\r\n3F&nbsp;&nbsp; &nbsp;學學實驗教育機構\r\n2F&nbsp;&nbsp; &nbsp;學學食驗室\r\n1F&nbsp;&nbsp; &nbsp;學學舞臺\r\nB1&nbsp;&nbsp; &nbsp;停車場\r\nB2&nbsp;&nbsp; &nbsp;停車場\r\nB3&nbsp;&nbsp; &nbsp;停車場\r\n\r\n得獎記錄\r\n獲2007亞洲十大最具影響力設計大獎 ( DFA Grand Award )\r\n學學於2007.12.12獲得香港設計中心「2007年亞洲十大最具影響力設計大獎」( DFA Grand Award )！評審團一致推薦「學學推動的美學教育將帶給亞洲生活風尚巨大的衝擊」。\r\n\r\n學學的文化創意產業論述\r\n「文化」是生活的全貌，文化包括：政治、經濟、社會、教育、宗教、哲學、科技、藝術。\r\n「創意」是新提案、新體驗、新組合，「文化創意」則是由文化中尋找創意靈感來源。\r\n文化創意產業可以協助都市、企業「品牌打造」，可以協助社會、個人「品味培養」。\r\n文化創意產業可以創造與各行各業的「跨業合作，感動加值」，「跨界合作，行銷推廣」。\r\n都市、企業打造品牌，可以運用文化創意的「欣賞群」轉化成為未來的「潛在新消費群」，得到消費者的感動與認同。\r\n社會、個人培養品味，可以運用文化創意的「創作群」來吸收新的五感體驗，進而培養出洞察未來生活需求的創意，及運用感動價值的能力。\r\n品牌藉由愈多的「跨業合作」，可以得到愈多的「感動加值」。\r\n個人藉由愈多的「跨界學習」，可以得到愈多的「創意能量」。",
+      "open_time": "週一至週日10:00-19:30",
+      "zipcode": "114",
+      "distric": "內湖區",
+      "address": "114 臺北市內湖區堤頂大道2段207號",
+      "tel": "+886-2-87516898",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.0779,
+      "elong": 121.56787,
+      "official_site": "http://www.xuexue.tw/",
+      "facebook": "https://www.facebook.com/xuexuefb",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2020-11-05 14:59:30 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/253",
+      "category": [
+        {
+          "id": 15,
+          "name": "藝文館所"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 62,
+          "name": "校外教學"
+        },
+        {
+          "id": 64,
+          "name": "DIY族"
+        }
+      ],
+      "service": [
+        {
+          "id": 142,
+          "name": "DIY服務"
+        },
+        {
+          "id": 143,
+          "name": "場地租用"
+        },
+        {
+          "id": 144,
+          "name": "餐飲"
+        },
+        {
+          "id": 145,
+          "name": "購物"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/89472",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89473",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89474",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89475",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89477",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89470",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89471",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1860,
+      "name": "臺北數位藝術中心",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "臺北數位藝術中心自今年4月，由社團法人台灣視覺藝術協會（視盟）承接營運，視盟團隊以深植的藝術資源與經驗，思考如何補齊中心與在地應有的連結，以成為更務實的能量平台。重啟之際，臺北數位藝術中心的物理性空間被打開、中心與環境關係被探索、中心與數位藝術對話加入新的可能，面對環境的改變、現實的考量，本中心期盼以「再、更、新」的概念，來貼近多元需要的方式，更新的深度服務品質，讓中心再次，重新出發。",
+      "open_time": "每週二至六，11:00-19:00 週日、一休館",
+      "zipcode": "111",
+      "distric": "士林區",
+      "address": "111 臺北市士林區福華路180號",
+      "tel": "+886-2-228345066",
+      "fax": "",
+      "email": "info@dac.taipei",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.10592,
+      "elong": 121.52224,
+      "official_site": "http://dac.taipei/",
+      "facebook": "https://www.facebook.com/taipeidac/",
+      "ticket": "免費參觀",
+      "remind": "",
+      "staytime": "",
+      "modified": "2020-11-05 14:55:19 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1860",
+      "category": [
+        {
+          "id": 15,
+          "name": "藝文館所"
+        }
+      ],
+      "target": [],
+      "service": [],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1731,
+      "name": "陽明山美軍俱樂部",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "陽明山美軍俱樂部位於文化大學旁美軍宿舍群內，在1950~1960年代駐台美軍及其眷屬社區的重要社交活動空間，這裡原本是陽明山聯誼社舊址的場地。\r\n\r\n在台北市文化局推動「老房子文化運動」的媒合下，鈺德科技接下了重建陽明山美軍俱樂部的任務，將這裡變成一個結合文創展演和餐廳的藝文空間，平日有免費開放參觀的時段，假日則需入內消費，是一個富有文化歷史意義的地方。\r\n\r\n攝影/劉佳雯\r\n\r\n攝影/劉佳雯\r\n\r\n(部分資料來源：陽明山美軍俱樂部官方網站)",
+      "open_time": "",
+      "zipcode": "111",
+      "distric": "士林區",
+      "address": "111 臺北市士林區凱旋路49號",
+      "tel": "",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.13549,
+      "elong": 121.54354,
+      "official_site": "http://www.by33.com.tw/",
+      "facebook": "https://www.facebook.com/BY33TeenClub/?hc_ref=SEARCH&fref=nf",
+      "ticket": "",
+      "remind": "平日開放參觀時段為上午11:00~11:40/下午3:00~4:30 (僅提供部份區域",
+      "staytime": "",
+      "modified": "2020-11-05 14:53:38 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1731",
+      "category": [
+        {
+          "id": 13,
+          "name": "歷史建築"
+        },
+        {
+          "id": 15,
+          "name": "藝文館所"
+        }
+      ],
+      "target": [],
+      "service": [
+        {
+          "id": 144,
+          "name": "餐飲"
+        },
+        {
+          "id": 145,
+          "name": "購物"
+        },
+        {
+          "id": 146,
+          "name": "公廁"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/89021",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89023",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/89025",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/181717",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/181719",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/181720",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/181721",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 44,
+      "name": "順益臺灣原住民博物館",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "順益臺灣原住民博物館，是國內第一座以原住民為主題的私人博物館。行經過它的時候，你很難忽略那特殊的建築造型──沉穩的灰色梯形建築，整面玻璃窗的彩繪裝飾，正中央矗立著刻滿原住民圖騰的石柱，帶著點神秘的氣息，彷彿有種魔力，召喚邀請著人們，快快大步邁入臺灣原住民的精采世界。\r\n\r\n博物館內的典藏文物共有4個主題，詳敘臺灣原住民各族的分佈區域，以及建築、工藝、狩獵器具&hellip;&hellip;等傳統日常生活物件的介紹，還有各族美麗的傳統服飾，與原住民族最重要的祖靈信仰。館方也會不定期舉辦各種相關活動及課程，讓民眾能以更活潑而輕鬆的方式，親自體驗原住民的文化，領略他們崇敬祖靈、與自然山川共生息的生活智慧。",
+      "open_time": "週二至週日09:00~17:00，遇國定假日開放參觀。\r\n公休日：週一暨每年農曆春節假期",
+      "zipcode": "111",
+      "distric": "士林區",
+      "address": "111 臺北市士林區至善路2段282號",
+      "tel": "+886-2-28412611",
+      "fax": "+886-2-28412615",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.10097,
+      "elong": 121.55197,
+      "official_site": "http://www.museum.org.tw/",
+      "facebook": "https://www.facebook.com/aborgines0609/",
+      "ticket": "門票及導覽相關資訊依官方網站公告為主。",
+      "remind": "",
+      "staytime": "",
+      "modified": "2020-11-05 14:06:04 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/44",
+      "category": [
+        {
+          "id": 15,
+          "name": "藝文館所"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 62,
+          "name": "校外教學"
+        }
+      ],
+      "service": [
+        {
+          "id": 146,
+          "name": "公廁"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/161457",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/161458",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/161459",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/161460",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63808",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63809",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63810",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 35,
+      "name": "錢穆故居",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "「素書樓」為國學大師錢穆先生生前居所。民國五十六年（1967），錢先生及夫人自香港來台覓地建屋，得外雙溪今址。為紀念母親生養之恩，錢先生以無錫七房橋五世同堂故居裡，母親居所之「素書堂」作為隱居終老處所之名。樓庭院內的一磚一石、一草一木都是主人多年的心血。\r\n\r\n錢先生在台期間講學著述不斷，錢先生在課堂上總是神采飛揚，讓聽者能領略中國文化之博大精深，而深受感動，因此素書樓的講堂每每座無虛席。\r\n\r\n民國七十九年（1990）錢先生因故遷出素書樓，不幸在三個月後滆然辭世。民國八十一年（1992）元月六日，政府為紀念錢穆先生，將「素書樓」闢為「錢穆先生紀念館」，並交由台北市立圖書館管理。民國九十年（2001）台北市政府將「素書樓」轉交文化局管理。民國九十年（2001）十二月三十一日，文化局將改名為「錢穆故居」之「素書樓」委託東吳大學經營，民國一百年（2011）一月一日改委託臺北市立大學(原臺北市立教育大學)經營管理。\r\n\r\n臺北市立大學為重現「素書樓講堂」宏揚中國傳統文化的盛況，在故居開辦一系列與傳統歷史文化相關之講座以享社會大眾。",
+      "open_time": "週二至週日9:00 - 17:00，每週一及國定假日休館\r\n\r\n\r\n",
+      "zipcode": "111",
+      "distric": "士林區",
+      "address": "111 臺北市士林區臨溪路72號",
+      "tel": "+886-2-28805809",
+      "fax": "",
+      "email": "chienmu.house@msa.hinet.net",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.09416,
+      "elong": 121.54793,
+      "official_site": "http://web.utaipei.edu.tw/~chienmu/",
+      "facebook": "https://www.facebook.com/pages/錢穆故居/219744354737251",
+      "ticket": "免費參觀",
+      "remind": "< 參 觀 須 知 >\r\n1.嚴禁煙火、飲食、喧嘩、奔跑、攜帶寵物或危險物品等；請配合服務人員的導引，並維持館內的秩序及整潔。\r\n2.請愛護展示文物，如有損及展覽品或相關設施者，須負賠償責任。\r\n3.十歲以下兒童請由成人帶領參觀。\r\n4.館內未經許可請勿攝錄影。",
+      "staytime": "",
+      "modified": "2020-11-05 13:58:09 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/35",
+      "category": [
+        {
+          "id": 13,
+          "name": "歷史建築"
+        },
+        {
+          "id": 15,
+          "name": "藝文館所"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 62,
+          "name": "校外教學"
+        }
+      ],
+      "service": [
+        {
+          "id": 146,
+          "name": "公廁"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/63705",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63706",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63708",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63709",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63710",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63711",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63712",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63714",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63715",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 404,
+      "name": "農禪寺",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "「農禪寺」，是法鼓山的開山宗師東初老人，根據百丈禪師創立的叢林制度，以務農維生、禪修生活為主的原則而取的。最初只有一棟二層樓農舍，即這次被列入台北市歷史建築之一。這棟農舍目前位於大殿後方，一九七一年左右，由東初老人率領弟子建造；一九七五年，農舍落成啟用，一樓作為客堂，二樓則供奉文殊師利菩薩，稱為文殊殿。\r\n\r\n\r\n早期農禪寺周圍遍佈菜園、竹林，常住眾親手植種菜蔬、採收竹筍，除供寺內日常食用，也分送給鄰近居民。一九七七年，農禪寺才啟用一年多，老人即捨報往生，沒有太多時間在寺中弘法，不過他以文化教育發揚佛教的理念，以及自力更生的農禪家風，都被繼任的聖嚴師父繼承下來，並一一加以落實。\r\n\r\n\r\n\r\n\r\n另一處歷史建築「入慈悲門」三門，則位於大殿入口處，是師父接任農禪寺住持後所興建。隨著師父在寺內弘法時間增加，參加共修的人也愈來愈多，原有空間逐漸不敷使用，一九八三年，決定在農舍後方加建大殿，於是，農舍後院成了大殿前院，「入慈悲門」成為信眾前往大殿的入口。而目前寺內許多鐵皮搭蓋的建築，像禪堂、齋堂、僧眾寮房、辦公室，同樣也是在需求空間的情況下，逐步增建出來的。\r\n&nbsp;\r\n\r\n&nbsp;\r\n從面臨拆遷到成為歷史建築 由於師父主持禪七、佛七、講座，帶動年輕人學佛修行的風氣，來寺內出家的年輕人，一九八九年已近三十位，農禪寺儼然也成了培養青年弘法人才的搖籃。不過，一九八九年「關渡平原保護區」的公佈，農禪寺面臨了拆遷問題。為祈求問題可以順利解決，這一年三月，師父在寺內的念佛共修會上，帶領近一千位信眾虔誦〈大悲咒〉二十一遍，不久後，即在金山鄉找到法鼓山這塊土地，農禪寺的問題也因此獲得解決。\r\n&nbsp;\r\n\r\n\r\n一九九O年八月，師父在寺內宣講「四眾佛子共勉語」，以「提昇人的品質，建設人間淨土」為法鼓山的方向和目標。隨後，法鼓山各事業體陸續成立，辦公室皆設在寺內；法鼓山舉辦的法會、成長營、讀書會等活動，也都在寺中進行。在法鼓山的成長過程中，農禪寺肩負起經營、推動法鼓山各項建設的重責大任。因緣總是那麼不可思議，原本隨時可能面臨拆遷的農禪寺，在成為台北市歷史建築後，將獲得妥善保存，拆遷問題也隨之化為無形。\r\n&nbsp;\r\n\r\n\r\n\r\n\r\n永遠的弘法道場一九七五年啟用後的農禪寺，在僧俗四眾經營支持下，短短三十年不到，成為漢傳佛教在台灣的弘法重鎮；其後，更成了法鼓山發展的中心樞紐；隨著法鼓山佛教園區逐一完成啟用，未來農禪寺的任務，將有另一階段的轉型。即使時空環境不停變更，農禪寺角色也跟著不斷轉換，不過，農禪寺一樣都會在每個時期，都承擔著不變的弘法、護法任務。\r\n\r\n(文字來源：農禪寺官網)",
+      "open_time": "",
+      "zipcode": "112",
+      "distric": "北投區",
+      "address": "112 臺北市北投區大業路65巷89號",
+      "tel": "+886-2-28933161#801~804",
+      "fax": "+886-2-28958969",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.12277,
+      "elong": 121.49585,
+      "official_site": "http://ncm.ddm.org.tw/main/index.aspx?chapid=88",
+      "facebook": "https://www.facebook.com/ncm.ddm",
+      "ticket": "",
+      "remind": "農禪寺為清靜的佛教寺院，入寺遊客務必遵守入寺須知",
+      "staytime": "",
+      "modified": "2020-11-05 12:00:29 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/404",
+      "category": [
+        {
+          "id": 14,
+          "name": "宗教信仰"
+        },
+        {
+          "id": 15,
+          "name": "藝文館所"
+        }
+      ],
+      "target": [],
+      "service": [
+        {
+          "id": 146,
+          "name": "公廁"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/65950",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65951",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65952",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65953",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65955",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65956",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65958",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65959",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65960",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65961",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65962",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65963",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65965",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65966",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65967",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65968",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65969",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/65971",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": [
+        {
+          "src": "http://ncm.ddm.org.tw/main/page_view.aspx?chapid=88&mnuid=1567&modid=444",
+          "subject": "線上預約參訪"
+        }
+      ]
+    },
+    {
+      "id": 374,
+      "name": "北投公民會館",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "本館於96年12月9日重新啟用，空間規劃除主展館（約40坪）及側展室（約27坪）各一間，另提供有296坪的綠色庭園。館內除不定期辦理各項藝文展覽，亦提供市民朋友申請作為繪畫、陶藝、攝影等展覽用途，免費供民眾參觀。&nbsp;\r\n\r\n&nbsp;\r\n\r\n本館備有「博物北投」導覽手冊，介紹附近陽明山國家公園、凱達格蘭文化館、琉園水晶博物館、鳳甲美術館、梅庭、北投溫泉博物館及北投文物館等文化景點。期盼您在「北投文化巡禮」之旅時，竭誠歡迎您造訪本館，看看展覽，在我們的庭園坐坐、歇歇腳，於桂花樹下，聆聽蟲鳴鳥叫，相信您會愛上這悠閒的地方。\r\n\r\n&nbsp;",
+      "open_time": "每週二至週日09:00-17:00，每週一暨國定假日休館",
+      "zipcode": "112",
+      "distric": "北投區",
+      "address": "112 臺北市北投區中山路5-7號",
+      "tel": "+886-2-28912105#273",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.13793,
+      "elong": 121.5101,
+      "official_site": "https://btdo.gov.taipei/Content_List.aspx?n=00235A38E5DB5592",
+      "facebook": "https://www.facebook.com/bopublichall/",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2020-11-05 11:57:37 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/374",
+      "category": [
+        {
+          "id": 15,
+          "name": "藝文館所"
+        }
+      ],
+      "target": [],
+      "service": [
+        {
+          "id": 146,
+          "name": "公廁"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/175034",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/175035",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/175036",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/175038",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/175039",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/175040",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 26,
+      "name": "陽明山中山樓",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "陽明山國家公園內的中山樓，是蔣介石總統在位時，為了紀念國父孫中山先生百年誕辰，於1965年所興建，由名建築師修澤蘭女士規劃，位於群山環抱的綠意之中，外表為中國傳統古典式建築，內部陳設典雅細緻，過去是國民大會的會場，並為國家元首接待外賓或舉辦國宴的重要場地，如今已被指定為市立古蹟，並開放場地租借及參觀導覽，是一座具有歷史紀念價值的建築物。\r\n\r\n陽明山中山樓管理所地址：台北市北投區陽明路二段15號\r\n電話：+886-2-2861-6391\r\n假日服務專線：+886-2-2861-6160\r\n參觀導覽 +886-2-2861-6391 / 場地租借 +886-2-2861-0565",
+      "open_time": "(一)週一至週日，每日固定四場導覽。\r\n　　(09：00；10：30；13：30；15：00)\r\n(二)休館日\r\n機電保養日、場地租借、國定假日，配合本所公告休館日，停止參觀服務。\r\n如遇颱風、地震等天災宣布停止上班時，亦停止參觀服務。",
+      "zipcode": "112",
+      "distric": "北投區",
+      "address": "112 臺北市北投區陽明路2段15號",
+      "tel": "+886-2-28616391",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.15563,
+      "elong": 121.55265,
+      "official_site": "http://chungshanhall.ntl.edu.tw/cht/index.php?",
+      "facebook": "",
+      "ticket": "一、全票：80元。(一般民眾適用)\r\n二、優待票：60元。*在學學生(須出示相關證明)及十人以上團體適用\r\n三、敬老票：40元。(本國籍65歲以上假日參觀之民眾)\r\n四、免費：(限中華民國國籍)     \r\n1. 身心障礙者及其陪同入場者一人(請出示相關證明)\r\n2. 未滿六歲兒童(須出示身分證明)\r\n3. 其他相關法令規定得免費參觀者。",
+      "remind": "本所目前不開放自由參觀，為固定時段之限定參觀，共有2項可進行申請：\r\n【一般導覽參觀】\r\n個人：不用事前申請，依固定導覽時間前來即可。\r\n團體：需5天前申請，5天內請來電專人安排。\r\n【中山樓創新科技特展AR/VR參觀】\r\n個人：可現場購票。\r\n團體：10人(含以上)須5天前申請，不接受臨時申請。\r\n*上述2項參觀請於參觀時間(09:00、10:30、13:30、15:00)前後10分鐘內完成購票入樓。",
+      "staytime": "",
+      "modified": "2020-11-05 11:43:23 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/26",
+      "category": [
+        {
+          "id": 13,
+          "name": "歷史建築"
+        },
+        {
+          "id": 15,
+          "name": "藝文館所"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 62,
+          "name": "校外教學"
+        }
+      ],
+      "service": [
+        {
+          "id": 146,
+          "name": "公廁"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/63577",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63583",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/173834",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/173835",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/173836",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/173838",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/179854",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63560",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63573",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 2373,
+      "name": "天母棒球場",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "民國86年3月25日動工，88年8月15日興建完成，左外野：325 英呎、中外野：400 英呎、右外野：325 英呎 臺北市立天母棒球場位於臺北市忠誠路與士東路交叉口，自民國86年3月5日動工興建，88年8月15日年落成啟用，2020年9月21日啟用人工草皮，為全台灣第一個使用人工草皮的球場。可容納觀眾10,000席。本球場坐落於陽明山下其方位為東北東方（由本壘往中外野方向），由本壘板正後方觀眾席望去，可觀賞到陽明山、文化大學、大屯山等景觀。\r\n\r\n(資料來源：臺北市政府體育局)",
+      "open_time": "",
+      "zipcode": "111",
+      "distric": "士林區",
+      "address": "111 臺北市士林區忠誠路二段77號",
+      "tel": "",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.11548,
+      "elong": 121.5338,
+      "official_site": "https://sports.tms.gov.tw/venues/?K=61",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2020-11-05 11:03:49 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/2373",
+      "category": [
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 62,
+          "name": "校外教學"
+        }
+      ],
+      "service": [],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/192021",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/192022",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/192023",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/192024",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/192025",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/192019",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/192020",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 238,
+      "name": "士林官邸公園",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "士林官邸公園位於士林區中山北路五段與福林路口東南側，周圍為福山山系所環抱，佔地9.28公頃。其中的士林官邸於民國三十九年因先總統 蔣公居住於此而設立，因為總統居住於此的關係，附近嚴禁改建及新建，使得官邸公園能維持原有的自然景觀。\r\n\r\n官邸公園主要分為外花園、內花園、正房、栽種蘭花的溫室盆栽區、玫瑰園、凱歌堂、新蘭亭和慈雲亭。其中內花園屬中式庭園，其中有曲折的小橋流水、假山、奇石及一座紅色的中式涼亭。外花園區為西式庭園，區內設計成毛氈花壇，廣植花卉，美不勝收，是每年辦理菊展的主題園區。玫瑰園，育有200餘玫瑰品種，4,000多株玫瑰，盛開期在每年的11月至翌年4月間，色彩繽紛為蔣夫人最喜愛散步的地方。\r\n\r\n凱歌堂為蔣家人禮拜及受洗之處。新蘭亭建於民國三十九年，又名壽亭，為中式四角狀建築，是每年 蔣公作壽的地方，也是舉辦各類蘭花展覽之地。慈雲亭建於福山之上，為兩層樓方形亭，是老總統為懷念母親所建。士林官邸公園於民國八十五年正式開放民眾參觀，為提供更多更好的服務，也積極加強各項的整理規劃及建設，成為台北市區中另一處供民眾休憩的景點。",
+      "open_time": "08：00~18：00",
+      "zipcode": "111",
+      "distric": "士林區",
+      "address": "111 臺北市士林區中山北路5段、福林路口東南側",
+      "tel": "+886-2-28812512",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.09308,
+      "elong": 121.53233,
+      "official_site": "https://parks.taipei/parks/m2/pkl_parks_m2C.php?sid=245",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2020-11-03 11:24:50 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/238",
+      "category": [
+        {
+          "id": 16,
+          "name": "戶外踏青"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 62,
+          "name": "校外教學"
+        }
+      ],
+      "service": [
+        {
+          "id": 146,
+          "name": "公廁"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/162859",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/162860",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/162861",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/162862",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/162863",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/162864",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/162865",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/162866",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/64921",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/64948",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/162858",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 18,
+      "name": "七星山系_坪頂古圳親山步道",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "坪頂為士林平等里的舊地名，位於平等里有兩條古圳以坪頂為名，一是坪頂古圳，一是坪頂新圳，兩處古圳都是超過150年的引水設施，肩負灌溉、飲水、運水三種功能，至今仍是平等里居民所仰賴的民生用水來源。\r\n\r\n坪頂古圳親山步道\r\n\r\n這條親山步道自平等里平菁街95巷起登，沿途上坡、下坡地面佈滿青苔，首先抵達設置打印台的清風亭，這時古圳口就在不遠處了，抵達水道口可見有坪頂古圳的大紅題字，一旁還簡述古圳的開鑿史。\r\n\r\n步道與水圳並行最後才抵圳道尾端的水渠石洞，其旁讓人目不暇給的水中生態與水域環境，讓山友瞧見圳道處處迷人的風采。\r\n\r\n坪頂古圳步道生態景觀\r\n\r\n坪頂古圳親山步道海拔約300至500公尺範圍內，也就是士林區平等里，地勢北高南低，有內雙溪與內寮溪流經其間，山地丘陵與溪水孕育出豐富的植物生態景觀，最多的要算是姑婆芋、紅楠、無患子、風藤及竹子等，水中生物則有多樣化的昆蟲與爬蟲類，讓山友在探訪步道的同時，也能感受處處是驚奇的豐富之旅。\r\n\r\n鵝尾山\r\n\r\n鵝尾山海拔523公尺，位於七股山與竹篙山的連稜間，又有「無尾山」之稱，山勢低緩，山頂上長滿了許多芒草和樹木，景致清幽。從平等里放眼望去，宛若一堆小土丘，山頂平坦渾圓，每當山嵐霧湧堆高，即可見迷濛飄渺的景象。\r\n\r\n山友可搭乘小18公車於礁坑或礁坑橋站下車後，循至善路三段181巷北行，經371巷20弄15號旁的登山口上登。\r\n\r\n古圳今流百年風\r\n\r\n到過外雙溪踏青戲水嗎？今天就沿著溪谷，到上游的內雙溪去瞧瞧，聽說溪流清澈，還有百年古圳伴相隨，真讓人萬分期待，許是又一處令人驚艷的世外桃源。\r\n\r\n走入竹林夾道的上坡路，青青苔蘚漫佈在石階、路旁的老樹上，間或出現的綠罩路燈也帶有幾分古樸味，這幽靜的綠色隧道恍若時空錯置，也許是要領我們回到百年前的「坪頂」。\r\n\r\n平等里的舊名是「坪頂」，所以這裡有二條古圳都是以坪頂為名，一是「坪頂古圳」，另一則是「坪頂新圳」，二者的年歲早已超過150年。古圳肩負運輸、灌溉、飲水三大功能，至今仍是平等里居民所仰賴的民生用水來源。\r\n\r\n過叉路左轉，順著下坡路來到覆滿青苔、古韻猶存的桃仔腳橋，古圳就在不遠處。興之所至，就先溯溪而下到溪谷戲水，反正接下來的路平坦好走，先玩個過癮，然後到小橋旁涼亭休息片刻再出發。\r\n\r\n首先映入眼簾的是水量最豐沛的登峰圳。這水圳雖然開闢時間最晚，但除了內雙溪以外，還導引沿途的山澗、溪流，以及附近礦坑內的水源，自然取之不盡、用之不竭啦。然後是略為「資深」的新圳，最後一段步道沿水圳而行，最後就會來到圳道尾端的水渠石洞，見到題有「坪頂古圳」的大紅字。\r\n\r\n水文、生態　處處是驚喜\r\n\r\n探訪古圳的路途上，還有讓人目不暇給的豐富生態。林蔭茂密，加上豐沛的水域環境，不僅水裡有各種水生動物，溪蝦、溪蟹、小魚、和成群的蝌蚪悠遊其間；濃密森林也孕育出繽紛多樣的昆蟲和爬蟲類動物。\r\n\r\n像是台灣最大型的無霸勾蜓，在平地鮮少見其蹤影，倒是經常在水圳附近活動。還有杜松蜻蜓、霜白蜻蜓，美麗的豆娘，都活躍於古圳四周。蝶影紛飛也是常見的景象，蛇目蝶多半待在陰暗的環境；鳳蝶和蛺蝶則喜歡陽光露臉的地方。行走步道間，稍微留意一下腳邊，也許會遇到可愛的金龜子、步行蟲，或是鍬形蟲呢。\r\n\r\n天氣晴朗時抬頭向天，也許就讓你捕捉到大冠鷲或台灣藍鵲飛略而過的身影；其他同屬於保育類的?動物，如黑冠麻鷺、台北樹蛙、褐樹蛙、青竹絲、十數種蜻蛉、螢火蟲等，也都選擇在這裡棲息。許多夜行性的動物，白天也許看不到，但仔細觀察，還是有很多有趣發現，像是桃仔腳橋旁的涼亭，石桌上灑滿了黑褐色的糞便，裡面還夾雜著甲蟲、螳螂和蟬的殘骸，蔚為罕見奇觀，這正是台灣葉鼻蝠的傑作，這些黑色排遺顯示，晚上經常有一群台灣葉鼻蝠會在屋頂倒吊休息。所以難得來到古圳步道，你可要睜大眼睛，仔細瞧瞧圳道處處見驚喜的迷人風采！",
+      "open_time": "開放空間",
+      "zipcode": "111",
+      "distric": "士林區",
+      "address": "111 臺北市士林區至善路三段370巷29號",
+      "tel": "",
+      "fax": "",
+      "email": "",
+      "months": "07,02,08,03,09,04,10,05,06",
+      "nlat": 25.13429,
+      "elong": 121.58673,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "1. 路徑長度:登山步道約1.3公里，全線約2.3公里\r\n2.海拔高度:484公尺\r\n3.步行時間:約1小時12分\r\n4.小18公車班次不多，出發前最好先查詢班次時刻表。\r\n5.步道附近水氣豐沛，路面時有青苔易濕滑，請小心行走。",
+      "staytime": "",
+      "modified": "2020-10-30 15:34:10 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/18",
+      "category": [
+        {
+          "id": 16,
+          "name": "戶外踏青"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        }
+      ],
+      "service": [
+        {
+          "id": 146,
+          "name": "公廁"
+        }
+      ],
+      "friendly": [],
+      "images": [],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 15,
+      "name": "大屯山系_中正山親山步道",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "中正山原名彌陀山，也叫十八份山或大竿林山，後來才改成中正山；中正山的登山口有7處之多，這是由其串連出來的步道特多，大都呈放射狀，山頭獨立，廣角視野稱得上一流，十分特別。\r\n\r\n中正山親山步道\r\n這條親山步道自登山路起登，幾乎是陡坡石階直上山頂，山友行前須作好體力與腳力的準備，尤其心肺功能須在這條步道行進間，充分發揮其功用。儘管上坡路段耗費體力，但是一路上登可以欣賞北投街區及基隆河全貌景象，讓這條步道還真吸引不少山友前往。\r\n\r\n尤其抵達山頂觀景樓，視野總讓人驚奇連連，平日不易見到的七星山、紗帽山「近覽」，山際稜線層層分明，難得一見、煞是好看。\r\n\r\n蝶影花海另類生態景觀\r\n中正山親山步道屬於陽明山國家公園範疇，步行其間不時可以看見鳳蝶成群飛舞，這裡的蝶類據調查有上百種之多，幾乎全臺灣四分之一的蝴蝶都會在者裡出沒，所以在地面或樹梢經常可見蝴蝶幼蟲--毛毛蟲的蹤跡，罕見而有趣。花季來臨時，中正山鞍部常可見相思樹的金黃花朵，其他如杜鵑花、山櫻花等也都不會缺席。\r\n\r\n探訪竹林幽徑\r\n站在北投市區遠望、或是由龍鳳谷仰望山谷對面，刻意由樹木修剪出來的「中正」二字清晰可見。中正山因為山上有法雨寺和大慈寺，原名彌陀山，又叫十八份山或大竿林山，後來為了紀念老蔣總統才改名為中正山。\r\n\r\n聽到「中正」兩字，總不免讓人肅然起敬，事實上從登山口起，幾乎是一路陡坡石階直上中正山，行前可要先做好心理準備，再挺直腰桿昂步登山去。正因為如此，這裡也是挑戰高山前練體力和腳力的好地方。\r\n\r\n上坡路耗費些體力在所難免，不常運動的人可以在途中的休憩涼亭歇歇腳，順道欣賞一下北投市區風光，登頂前邊走邊瀏覽，途中欄杆旁、舊地藏王廟前，都是眺望北投市區和基隆河的好據點。再加把勁往高處去，就能到觀景樓的長椅好好休息啦。\r\n\r\n山頂不算寬闊，但登上特設的觀景樓卻讓人大呼過癮，甚至驚呼連連。撇開迎面清涼的山風不談，環顧四周一望無垠，平時只能遠觀的七星山、紗帽山，此刻居然可近攬形貌，而北投附近著名的風景名勝「龍鳳谷」就在山腳下，再遠一點更見基隆河蜿蜒流向淡水河口，而淡水河依傍著觀音山，山河美景層層分明。\r\n\r\n回程路上沿途還能更「近距離」欣賞捷運北投機場、彩繪的北投焚化爐高塔、整片綠地的關渡平原，和淡水河對岸的觀音山，若是在步道上還看不過癮，建議你最後一段下坡路時而循竹林步徑、時而走一段產業道路，採公路、步道混合的方式來走，就能和眼前美景更「靠近」一些，也為這趟行程平添趣味和變化性。\r\n\r\n漫遊蝶影花海\r\n儘管步道兩旁大多是竹林和農園景觀，在春暖花開時節，不論是上坡地藏王廟附近、抑或是下坡路段，開滿金黃花朵的相思樹迎風飄落路徑，仿若是相思花絮為山林訪客舖就連綿的柔軟地毯。雖然陽明山花季已過，金黃相思與綠竹互搭的純然景緻也別有風味。\r\n\r\n既然中正山屬於陽明山國家公園範疇，步行其間不時可見翩翩飛舞的蝶影自然不足為奇。這裡的蝶類有100多種，全台灣1/4的蝴蝶種類都會在附近出沒，所以無論是地面上或是半空中都能輕易看到毛毛蟲的蹤跡。沿途常見毛毛蟲悠閒地懸吊空中，煞是有趣。\r\n\r\n在這裡不只毛毛蟲的生命力旺盛，停下腳步仔細一看，就連地上的螞蟻、爬蟲類也顯得特別肥碩。晴天時前行視野較開闊處，也許能親賭大冠鷲、紅嘴黑鵯、白頭翁，或是五色鳥的身影，不然耳畔也經常能聽見此起彼落的鳥鳴聲，即便是獨自登山，一路上根本不覺寂寞。\r\n\r\n若是到了夏季，步道的自然樂音除了熟悉的蟬鳴聲，還有螽斯、蜥蟀等低迴的蟲鳴聲。至於冬季到早春，就有台北樹蛙來「值夜班」，長而低沈的蛙鳴是雄蛙最原始的呼喚，想藉此訊號發出求偶的渴求，於是山間又響起不同的樂章。",
+      "open_time": "開放空間",
+      "zipcode": "112",
+      "distric": "北投區",
+      "address": "112 臺北市北投區登山路143之2號",
+      "tel": "",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.14698,
+      "elong": 121.51721,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "1.路徑長度:登山步道約3.3公里，全線約7公里\r\n2.海拔高度:646公尺\r\n3.步行時間:約1小時55分鐘",
+      "staytime": "",
+      "modified": "2020-10-30 15:33:04 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/15",
+      "category": [
+        {
+          "id": 16,
+          "name": "戶外踏青"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 66,
+          "name": "健行族"
+        }
+      ],
+      "service": [
+        {
+          "id": 146,
+          "name": "公廁"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/63438",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63439",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63440",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63441",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63437",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 13,
+      "name": "大屯山系_忠義山親山步道",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "忠義山又叫小八里分山，石階攀登、林蔭密佈是其最大特色，慢步攀登、享受林間涼爽，是極佳的有氧運動場地。\r\n\r\n忠義山親山步道\r\n位於臺北藝術大學後山的忠義山親山步道，沿途林木密集，路徑遮陽率在百分之九十以上，是一條原始幽靜的步道，對怕晒的山友來說，這裡是最佳之選的路徑；只不過沿途多處石階，尤其是登頂前盡是上坡石階，須不錯的腳力和體力才能勝任，呼吸的節奏更應適時調整，否則會走得氣喘吁吁、上氣接不到下氣。\r\n\r\n有氧健行　美麗一身\r\n忠義山親山步道離市區近，所以不論晨昏，附近居民常會來這裡練腳力和體力；到了假日，就算是陽光熾熱的天氣，步道上上下下的人潮始終沒斷過。\r\n\r\n登頂前盡是上坡步階，雖然路程不算長，隨著石階攀升，呼吸也變得急促，尤其後段直挺挺的步道最是需要好好調勻呼吸，不然免不了要氣喘吁吁。前一小段路還能拐到岔路旁、在行天宮後院步道的涼亭歇歇腳，後半段若要小歇，接近指標之前的石階護欄較寬敞，可以就地取材充當便椅。\r\n\r\n看到綠色欄杆出現，山頂就不遠了。到了頂上寬廣的平台，不但有長排座椅好休息，如果想趁全身帶氧量正充沛之際，好好活絡一下全身細胞，就踏上樹蔭下的卵石步道，直接從腳底喚醒平日久怠不興的循環系統。那麼，接下來要挑戰陡峭山徑就能得心應手啦。\r\n\r\n走一趟忠義山步道，像進入天然的有氧教室，讓全身「缺氧」的細胞Up Up，而且這回不須繳會員費，也不怕店家突然歇業，只要邁開腳步上山去就成了。\r\n\r\n自然樂章　健康一生\r\n沿捷運軌道旁的綠色步道往行天宮走去，眼前就是山川美景，還沒走到登山口就見青翠山色躍然於前，欣喜雀躍之情油然而生，腳步也跟著輕盈了起來。\r\n\r\n拾級而上，沿路常見高大的樹木，松林、刺竹等茂盛樹林擋住了大半刺目的陽光，此起彼落的蟲鳴鳥叫生氣蓬勃，像是用高亢聲調歡迎來訪的客人。途中瞥見北投市景，登上山頂視野更好，可遠望觀音山和淡水河。聽說在忠義山看觀音山，山形最美，可得把握好好瞧一瞧。\r\n\r\n山頂高原平坦寬闊，有時引來小白鷺駐足停歇，和眼前一片貧脊的紅土層相映成趣。才「豁然開朗」，轉入下坡路段，景觀全然不同。林間綠蔭更密，幾乎見不到樹林外的風景，也更顯得遺世獨立。尤其由寬敞的空間乍然轉換至狹窄的小徑，初入步徑可能會納悶前方可還有道路，或是以為走錯路徑。在路旁輔助繩索的引導之下，中途來到一處遠眺的好據點。停駐岩塊上，更可好好欣賞觀音山和淡水河，此時山水美景不偏不倚，直立於正前方。\r\n\r\n走出林蔭小徑，眼前視野又逐步開展。最後一段路程途中，整個關渡平原一覽無遺，捷運北投機房、醒目的焚化爐高塔，一一清晰分明映入眼簾，為今天的行程畫個完美的句點。",
+      "open_time": "開放空間",
+      "zipcode": "112",
+      "distric": "北投區",
+      "address": "112 臺北市北投區中央北路四段18巷",
+      "tel": "",
+      "fax": "",
+      "email": "",
+      "months": "07,08,03,09,04,10,05,11,06",
+      "nlat": 25.13728,
+      "elong": 121.4784,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "1.路徑長度:登山步道約6.8公里\r\n2.海拔高度:224公尺 \r\n3.步行時間:約2小時50分鐘",
+      "staytime": "",
+      "modified": "2020-10-30 15:31:44 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/13",
+      "category": [
+        {
+          "id": 16,
+          "name": "戶外踏青"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 66,
+          "name": "健行族"
+        }
+      ],
+      "service": [
+        {
+          "id": 146,
+          "name": "公廁"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/63420",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63421",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63422",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63423",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63425",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63431",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63432",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63418",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63419",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 6,
+      "name": "社子島環島與二重疏洪道自行車道",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "社子島位於基隆河與淡水河之交匯處，地質為沙洲型態，該地區處處可見稻田橫亙，菜園綠茵，展現老農村民風純樸的美麗景緻。該地區利用堤頂建設自行車道，吸引許多自行車愛好者前往，社子島沙洲沙尾可以看見基隆和與淡水河交匯波濤澎湃的景象，每當夕陽西下，金黃色落日餘暉揮灑在河面上閃閃動人，遠眺大屯山及觀音山綿延天邊的景緻，教人美不勝收。\r\n\r\n往南還可銜接百齡橋左岸自行車，這裡有許多大型的各式球場，而且經常可以看見國內外著名的球隊在此練球，騎乘之餘欣賞開闊的運動廣場人群，既充實又熱鬧。二重疏洪道環狀自行車道全長24公里，穿越堤頂道路進入公園區域，不同主題的河濱綠地，可以花上很多時間去探險。",
+      "open_time": "開放空間",
+      "zipcode": "111",
+      "distric": "士林區",
+      "address": "111 臺北市士林區延平北路七段",
+      "tel": "",
+      "fax": "",
+      "email": "",
+      "months": "07,08,03,09,04,10,05,06",
+      "nlat": 25.08952,
+      "elong": 121.50314,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "1.長度：社子島9公里，二重疏洪道24公里 \r\n2.騎乘時間：社子島約40分鐘、二重疏洪道約100分鐘\r\n\r\n路況屬於平坦路段、騎乘時舒適度普通，沿途可以看見基隆河與淡水河交匯波滔景像及遠眺大屯山、觀音山的景致，但因為路程較遠，較適合體力較好者。",
+      "staytime": "",
+      "modified": "2020-10-30 15:30:42 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/6",
+      "category": [
+        {
+          "id": 12,
+          "name": "單車遊蹤"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 63,
+          "name": "單車族"
+        }
+      ],
+      "service": [
+        {
+          "id": 146,
+          "name": "公廁"
+        },
+        {
+          "id": 147,
+          "name": "停車場"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/63343",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63341",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63342",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 5,
+      "name": "關渡_金色水岸_八里左岸自行車道",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "基隆河匯入淡水河之前，繞著社子島轉出一個美麗的弧彎，在其北岸與磺港溪以西地帶，保留了都會臺北極其珍貴的稻香田園，連結起河口紅樹林自然保護區，讓人得以在很短的距離內隔絕塵囂嘈雜，單車踩踏其間，尤其能夠體會早年農村氛圍的樸素簡單、踏實自在。夕照裡堤道漫步，河風微微、鳥鳴吱吱，關渡自然保護區生機盎然中，獨有浪漫閒適的野趣滿點。\r\n\r\n穿越關渡平原的自行車道，是全線非封閉性的路徑，西側端點為關渡宮，往東沿著關渡防潮堤至八仙福德祠，轉90度往北穿越關渡平原，直到北投中央北路捷運軌道南側，穿出去便是政戰學校西邊的稻香路。 無法自行攜帶單車的遊人，以關渡宮為起點較方便，一則靠近捷運站，再者可於該處租到自行車或雙人協力車。 關渡宮沿河堤段原有的攤販已完全撤離，改成好走的人行步道，跨越中港河小橋旁停泊的漁船也外移至淡水河邊，雖然少了扁舟停泊的漁港懷舊味，水域卻也另有清爽的風貌。",
+      "open_time": "開放空間",
+      "zipcode": "112",
+      "distric": "北投區",
+      "address": "112 臺北市北投區關渡自行車道",
+      "tel": "",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.11889,
+      "elong": 121.47083,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "1.長度：11.9公里，其中貴子坑溪自行車道約5公里 \r\n2.騎乘時間：約40分鐘",
+      "staytime": "",
+      "modified": "2020-10-30 15:29:56 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/5",
+      "category": [
+        {
+          "id": 12,
+          "name": "單車遊蹤"
+        },
+        {
+          "id": 16,
+          "name": "戶外踏青"
+        },
+        {
+          "id": 17,
+          "name": "藍色水路"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 62,
+          "name": "校外教學"
+        },
+        {
+          "id": 63,
+          "name": "單車族"
+        },
+        {
+          "id": 65,
+          "name": "賞鳥族"
+        },
+        {
+          "id": 66,
+          "name": "健行族"
+        }
+      ],
+      "service": [
+        {
+          "id": 146,
+          "name": "公廁"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/63340",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63335",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63337",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63339",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 4,
+      "name": "景美溪左、右岸自行車道",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "有青山綠水相伴的景美溪左、右岸自行車道，沿線有動物園，政大球場及青草綠茵，溪流常有魚群穿梭，適合攜家帶眷全家出遊的路線。沿線的景觀相當豐富，翠綠草地，清澈溪流讓人感覺非常舒適，此外，於道南河濱公園內還設有各式各樣的運動場所，如籃球場、溜冰場、羽球場等，每到傍晚便可看到許多人或走或騎自行車到這兒來進行各種運動，是一個充滿活力的自行車道。",
+      "open_time": "開放空間",
+      "zipcode": "116",
+      "distric": "文山區",
+      "address": "116 臺北市文山區景美溪左右岸",
+      "tel": "",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 24.98135,
+      "elong": 121.56629,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "1.長度：左岸3.8公里，右岸8.1公里。\r\n2.騎乘時間：左岸約25分鐘，右岸約15分鐘，可由道南橋連接兩岸。",
+      "staytime": "",
+      "modified": "2020-10-30 15:29:21 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/4",
+      "category": [
+        {
+          "id": 12,
+          "name": "單車遊蹤"
+        },
+        {
+          "id": 16,
+          "name": "戶外踏青"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        },
+        {
+          "id": 63,
+          "name": "單車族"
+        }
+      ],
+      "service": [
+        {
+          "id": 146,
+          "name": "公廁"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/63334",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63329",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63331",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63333",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 3,
+      "name": "大佳碼頭-圓山仔",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "大佳碼頭位於圓山基隆河左岸，圓山昔稱圓仔山，是大龍峒地形上的龍頭之地，由於基隆河流經，過去曾是海水進出的湖沼地區，經過開挖發掘的圓山遺址及貝塚，證明當時先民生活的位址。緊依著圓山的劍潭之地，因國姓爺鄭成功插劍水潭取水而得名，日據時期日人曾於今圓山飯店旁忠烈祠西側之地，興建臺灣神社及神宮外苑花園，由此可見其地理位置之重要性。\r\n\r\n大佳碼頭位於基隆河南岸、大直橋以西約200公尺的地方。這裡是「藍色公路」的遊艇碼頭，從這裡有大佳到圓山、大佳到內湖科學園區單點來回兩個航線。\r\n\r\n\r\n\r\n",
+      "open_time": "開放空間",
+      "zipcode": "104",
+      "distric": "中山區",
+      "address": "104 臺北市中山區大佳碼頭",
+      "tel": "+886-2-29284665",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.07523,
+      "elong": 121.56076,
+      "official_site": "http://www.pto.gov.taipei/ct.asp?xItem=1201278&ctNode=35868&mp=117041",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2020-10-30 15:28:19 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/3",
+      "category": [
+        {
+          "id": 17,
+          "name": "藍色水路"
+        }
+      ],
+      "target": [
+        {
+          "id": 62,
+          "name": "校外教學"
+        }
+      ],
+      "service": [
+        {
+          "id": 146,
+          "name": "公廁"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/63327",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63328",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63324",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63325",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63326",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    },
+    {
+      "id": 1,
+      "name": "大稻埕碼頭_PIER5",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "大稻埕原是平埔族的居住地，因萬華（艋舺）同安人發生激烈的械鬥，造成族人移至大稻埕定居，開始大稻埕淡水河旁商店和房屋的興建，淡水港開放後，大稻埕在劉銘傳的治理下成為臺北城最繁華的物資集散中心，當中以茶葉、布料為主要貿易交易，當時的延平北路及貴德街一帶便是商業活動的重心，也讓大稻埕早年的歷史多采多姿、令人回味。\r\n\r\n",
+      "open_time": "平常日以團體預約包船為主，例假日行駛固定航次，請洽詢各船公司。\r\n強烈季風、漲退潮水位差影響航行及靠泊安全，當日實際航班得由現場公告或網站預告調整。\r\n\r\n",
+      "zipcode": "103",
+      "distric": "大同區",
+      "address": "103 臺北市大同區大稻埕碼頭",
+      "tel": "+886-2-27208889",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.0564,
+      "elong": 121.50761,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "",
+      "staytime": "",
+      "modified": "2020-10-30 15:27:35 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/1",
+      "category": [
+        {
+          "id": 17,
+          "name": "藍色水路"
+        }
+      ],
+      "target": [
+        {
+          "id": 62,
+          "name": "校外教學"
+        }
+      ],
+      "service": [
+        {
+          "id": 144,
+          "name": "餐飲"
+        },
+        {
+          "id": 145,
+          "name": "購物"
+        },
+        {
+          "id": 146,
+          "name": "公廁"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/182690",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182691",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182692",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182693",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182694",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182695",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182696",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182697",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182698",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182699",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182700",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182701",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182702",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/182703",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63302",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": [
+        {
+          "src": "https://www.riverfun.net/dadaocheng-monuments-routes",
+          "subject": "大稻埕古蹟航線 - 藍色水路微旅行"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "雙溪生活水岸自行車道",
+      "name_zh": null,
+      "open_status": 1,
+      "introduction": "從陽明山國家公園發源的雙溪，流經東吳大學之後，轉往公路北側，河濱綠地公園也由此綿延展開，河濱自行車道順勢闢建於左右兩岸，成為臺北市河川單車路往中，最貼近住宅區也維護得極為完善的短小精緻路徑。\r\n\r\n景色優美的雙溪河畔，引領平日生活繁忙的都市人，找到一條解放疲憊身心的綠色隧道，由雙溪左岸在銜接百齡橋右岸自行車道，百齡橋右岸河濱公園是玩橄欖球愛好者聚集之處，也常見足球隊伍相互較勁，單車族群也可加入這片青青草原，一路踏騎到承德橋下，順路造訪臺北市最後舢舨碼頭「三腳渡」。",
+      "open_time": "開放空間",
+      "zipcode": "111",
+      "distric": "士林區",
+      "address": "111 臺北市士林區士林橋",
+      "tel": "",
+      "fax": "",
+      "email": "",
+      "months": "01,07,02,08,03,09,04,10,05,11,06,12",
+      "nlat": 25.09852,
+      "elong": 121.5237,
+      "official_site": "",
+      "facebook": "",
+      "ticket": "",
+      "remind": "1.長度：左右岸各2.8公里 \r\n2.騎乘時間：約30分鐘",
+      "staytime": "",
+      "modified": "2020-10-30 15:26:18 +08:00",
+      "url": "https://www.travel.taipei/zh-tw/attraction/details/8",
+      "category": [
+        {
+          "id": 12,
+          "name": "單車遊蹤"
+        },
+        {
+          "id": 16,
+          "name": "戶外踏青"
+        },
+        {
+          "id": 19,
+          "name": "親子共遊"
+        }
+      ],
+      "target": [
+        {
+          "id": 61,
+          "name": "親子共學"
+        }
+      ],
+      "service": [
+        {
+          "id": 146,
+          "name": "公廁"
+        }
+      ],
+      "friendly": [],
+      "images": [
+        {
+          "src": "https://www.travel.taipei/image/63344",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63345",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63349",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63350",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63352",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63354",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63357",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63359",
+          "subject": "",
+          "ext": ".jpg"
+        },
+        {
+          "src": "https://www.travel.taipei/image/63362",
+          "subject": "",
+          "ext": ".jpg"
+        }
+      ],
+      "files": [],
+      "links": []
+    }
+  ]
+}

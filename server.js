@@ -119,9 +119,13 @@ const getAttraction = (args) => {
 
 const getAttractions = (args) => {
   const { distric, category } = args;
-  if(distric && category){
-    const dataFilterByDistric = totalData.filter((location) => location.distric === distric);
-    return dataFilterByDistric.filter((location) => filterByCategory(location, category));
+  if (distric && category) {
+    const dataFilterByDistric = totalData.filter(
+      (location) => location.distric === distric
+    );
+    return dataFilterByDistric.filter((location) =>
+      filterByCategory(location, category)
+    );
   }
   if (distric) {
     return totalData.filter((location) => location.distric === distric);

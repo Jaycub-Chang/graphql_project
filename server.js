@@ -77,7 +77,7 @@ const getInitNews = async () => {
 const myGraphQLSchema = buildSchema(`
     type Query {
         attraction(id:Int): Attraction
-        attractions(distric:String,category:[String]): [Attraction]
+        attractions(distric:String,category:[String],name:String): [Attraction]
         hotAttractions: [Attraction]
         latestNews: [News]
     }
@@ -128,7 +128,7 @@ const getAttraction = (args) => {
 };
 
 const getAttractions = (args) => {
-  const { distric, category } = args;
+  const { distric, category, name } = args;
   if (distric && category) {
     const dataFilterByDistric = totalData.filter(
       (location) => location.distric === distric
@@ -140,10 +140,13 @@ const getAttractions = (args) => {
   if (distric) {
     return totalData.filter((location) => location.distric === distric);
   }
-  if (category) {
+  if (category.length) {
     return totalData.filter((location) => filterByCategory(location, category));
   }
-  return totalData;
+  if (name) {
+    return totalData.filter((location) => location.name.indexOf(name) !== -1);
+  }
+  return {};
 };
 
 const filterByCategory = (location, category) => {

@@ -36,3 +36,30 @@ export const GET_LATEST_NEWS = gql`
     }
   }
 `;
+
+export const GET_LOCATIONS = gql`
+  query getLocations($distric: String, $category: [String], $name: String) {
+    attractions(distric: $distric, category: $category, name: $name) {
+      id
+      name
+      introduction
+      open_time
+      distric
+      address
+      tel
+      email
+      fax
+      official_site
+      facebook
+      ticket
+      remind
+      category {
+        name
+      }
+      images {
+        src
+        ext
+      }
+    }
+  }
+`;

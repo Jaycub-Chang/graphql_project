@@ -2,6 +2,7 @@ const express = require("express");
 const { graphqlHTTP } = require("express-graphql");
 const { buildSchema } = require("graphql");
 const axios = require("axios");
+const cors = require("cors");
 
 // download data
 const tpc_attractions_page1 = require("./database/tpc_attractions_page1.json");
@@ -77,6 +78,8 @@ const myGraphQLSchema = buildSchema(`
     type Query {
         attraction(id:Int): Attraction
         attractions(distric:String,category:[String]): [Attraction]
+        hotAttractions: [Attraction]
+        latestNews: [News]
     }
     type Attraction {
         id: Int
@@ -103,7 +106,14 @@ const myGraphQLSchema = buildSchema(`
         src: String
         ext: String
     }
-   
+    type News {
+        id: Int
+        title: String
+        description: String
+        posted: String
+        modified: String
+        url: String
+    }
 `);
 
 const getAttraction = (args) => {
@@ -149,15 +159,29 @@ const filterByCategory = (location, category) => {
   return isMatch;
 };
 
+const getHotAttractions = () => {
+  return totalData.filter((location, index) => index < 10);
+};
+
+const getLatestNews = async () => {
+  const payload = await getInitNews();
+  return [...payload.data];
+};
+
 // root resolver
 const root = {
   attraction: getAttraction,
   attractions: getAttractions,
+  hotAttractions: getHotAttractions,
+  latestNews: getLatestNews,
 };
 
 const PORT = 4000;
 
 const app = express();
+
+// allow cross policy
+app.use(cors());
 
 // bodyParser is needed just for POST.
 app.use(

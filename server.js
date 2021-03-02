@@ -146,7 +146,7 @@ const getAttractions = (args) => {
   if (name) {
     return totalData.filter((location) => location.name.indexOf(name) !== -1);
   }
-  return {};
+  return [];
 };
 
 const filterByCategory = (location, category) => {

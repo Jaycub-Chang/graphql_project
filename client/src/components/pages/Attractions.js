@@ -68,12 +68,11 @@ const Attractions = () => {
                 variant={searchDistric === item ? "success" : "secondary"}
                 style={{ minWidth: "130px", margin: "10px 10px" }}
                 onClick={() => {
-                  if(searchDistric===item){
-                    setSearchDistric('');
-                  }else{
+                  if (searchDistric === item) {
+                    setSearchDistric("");
+                  } else {
                     setSearchDistric(item);
-                  };
-                  
+                  }
                 }}
               >
                 {item}
@@ -110,6 +109,33 @@ const Attractions = () => {
           })}
         </BtnWrapper>
       </SearchContainer>
+      <AttractionsContainer>
+        {data?.attractions.map((item, index) => {
+          return (
+            <Card key={`${item.name}${index}`}>
+              <CardImgWrapper>
+                <CardImg
+                  src={
+                    item?.images[0]?.src ??
+                    "https://epaper.gov.taipei/images/photo_default.png"
+                  }
+                />
+              </CardImgWrapper>
+              <CardName>{item.name}</CardName>
+              <CardText>{`地址：${item?.address}`}</CardText>
+              <CategoryTagArea>
+                {item.category.map((cate, index) => {
+                  return (
+                    <CategoryTag key={`${cate.name}${index}`}>
+                      {cate.name}
+                    </CategoryTag>
+                  );
+                })}
+              </CategoryTagArea>
+            </Card>
+          );
+        })}
+      </AttractionsContainer>
     </PageWrapper>
   );
 };
@@ -120,6 +146,7 @@ const SearchContainer = styled.div`
   max-width: 1080px;
   padding: 30px;
   margin: 0 auto;
+  border-bottom: 2px solid #fff;
 `;
 
 const DistricSearchTitle = styled.div`
@@ -136,4 +163,77 @@ const BtnWrapper = styled.div`
   align-items: center;
   width: 100%;
   margin: 20px 0;
+`;
+
+const AttractionsContainer = styled.div`
+  max-width: 1080px;
+  padding: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: start;
+  margin: 0 auto;
+`;
+
+const Card = styled.div`
+  margin: 15px 5px;
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #fff;
+  color: ${(props) => props.theme.secondary};
+`;
+
+const CardImgWrapper = styled.div`
+  width: 100%;
+  height: 150px;
+  overflow: hidden;
+  box-shadow: 0 1px 1px 1px #bbb;
+  position: relative;
+  z-index: 10;
+`;
+
+const CardImg = styled.img`
+  object-fit: cover;
+  width: 100%;
+`;
+
+const CardName = styled.div`
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.5;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  text-align:center;
+`;
+
+const CardText = styled.div`
+  font-size: 16px;
+  line-height: 1.5;
+  padding: 0 20px 20px 20px;
+`;
+
+const CategoryTagArea = styled.div`
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  width: 100%;
+  padding: 0 20px 0 20px;
+  min-height: 80px;
+`;
+
+const CategoryTag = styled.div`
+  background-color: ${(props) => props.theme.danger};
+  color: #fff;
+  padding: 5px;
+  margin: 0 10px 10px 0;
+  border-radius: 5px;
+  font-size: 12px;
 `;

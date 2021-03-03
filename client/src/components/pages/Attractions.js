@@ -110,31 +110,35 @@ const Attractions = () => {
         </BtnWrapper>
       </SearchContainer>
       <AttractionsContainer>
-        {data?.attractions.map((item, index) => {
-          return (
-            <Card key={`${item.name}${index}`}>
-              <CardImgWrapper>
-                <CardImg
-                  src={
-                    item?.images[0]?.src ??
-                    "https://epaper.gov.taipei/images/photo_default.png"
-                  }
-                />
-              </CardImgWrapper>
-              <CardName>{item.name}</CardName>
-              <CardText>{`地址：${item?.address}`}</CardText>
-              <CategoryTagArea>
-                {item.category.map((cate, index) => {
-                  return (
-                    <CategoryTag key={`${cate.name}${index}`}>
-                      {cate.name}
-                    </CategoryTag>
-                  );
-                })}
-              </CategoryTagArea>
-            </Card>
-          );
-        })}
+        {data?.attractions.length ? (
+          data?.attractions.map((item, index) => {
+            return (
+              <Card key={`${item.name}${index}`}>
+                <CardImgWrapper>
+                  <CardImg
+                    src={
+                      item?.images[0]?.src ??
+                      "https://epaper.gov.taipei/images/photo_default.png"
+                    }
+                  />
+                </CardImgWrapper>
+                <CardName>{item.name}</CardName>
+                <CardText>{`地址：${item?.address}`}</CardText>
+                <CategoryTagArea>
+                  {item.category.map((cate, index) => {
+                    return (
+                      <CategoryTag key={`${cate.name}${index}`}>
+                        {cate.name}
+                      </CategoryTag>
+                    );
+                  })}
+                </CategoryTagArea>
+              </Card>
+            );
+          })
+        ) : (
+          <NoMatchText>目前搜尋條件無符合項目</NoMatchText>
+        )}
       </AttractionsContainer>
     </PageWrapper>
   );
@@ -176,6 +180,7 @@ const AttractionsContainer = styled.div`
 `;
 
 const Card = styled.div`
+  cursor: pointer;
   margin: 15px 5px;
   width: 280px;
   display: flex;
@@ -186,6 +191,11 @@ const Card = styled.div`
   overflow: hidden;
   background-color: #fff;
   color: ${(props) => props.theme.secondary};
+  transition: 0.3s;
+  :hover {
+    transform: scale(1.05);
+    box-shadow: 0px 0px 3px 3px ${(props) => props.theme.primary};
+  }
 `;
 
 const CardImgWrapper = styled.div`
@@ -211,7 +221,7 @@ const CardName = styled.div`
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-  text-align:center;
+  text-align: center;
 `;
 
 const CardText = styled.div`
@@ -236,4 +246,11 @@ const CategoryTag = styled.div`
   margin: 0 10px 10px 0;
   border-radius: 5px;
   font-size: 12px;
+`;
+
+const NoMatchText = styled.div`
+  font-weight: bold;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 32px;
 `;

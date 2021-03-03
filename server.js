@@ -129,24 +129,48 @@ const getAttraction = (args) => {
 
 const getAttractions = (args) => {
   const { distric, category, name } = args;
+  if (distric && category && name) {
+    const dataFilterByDistric = getFilterByDistric({ totalData, distric });
+    const dataFilterByCates = getFilterByCategory({
+      totalData: dataFilterByDistric,
+      category,
+    });
+    return getFilterByname({ totalData: dataFilterByCates, name });
+  }
+  if (category && name) {
+    const dataFilterByCates = getFilterByCategory({ totalData, category });
+    return getFilterByname({ totalData: dataFilterByCates, name });
+  }
+  if (distric && name) {
+    const dataFilterByDistric = getFilterByDistric({ totalData, distric });
+    return getFilterByname({ totalData: dataFilterByDistric, name });
+  }
   if (distric && category) {
-    const dataFilterByDistric = totalData.filter(
-      (location) => location.distric === distric
-    );
-    return dataFilterByDistric.filter((location) =>
-      filterByCategory(location, category)
-    );
+    const dataFilterByDistric = getFilterByDistric({ totalData, distric });
+    return getFilterByCategory({ totalData: dataFilterByDistric, category });
   }
   if (distric) {
-    return totalData.filter((location) => location.distric === distric);
+    return getFilterByDistric({ totalData, distric });
   }
   if (category.length) {
-    return totalData.filter((location) => filterByCategory(location, category));
+    return getFilterByCategory({ totalData, category });
   }
   if (name) {
-    return totalData.filter((location) => location.name.indexOf(name) !== -1);
+    return getFilterByname({ totalData, name });
   }
   return [];
+};
+
+const getFilterByDistric = ({ totalData, distric }) => {
+  return totalData.filter((location) => location.distric === distric);
+};
+
+const getFilterByCategory = ({ totalData, category }) => {
+  return totalData.filter((location) => filterByCategory(location, category));
+};
+
+const getFilterByname = ({ totalData, name }) => {
+  return totalData.filter((location) => location.name.indexOf(name) !== -1);
 };
 
 const filterByCategory = (location, category) => {

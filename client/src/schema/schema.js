@@ -63,3 +63,30 @@ export const GET_LOCATIONS = gql`
     }
   }
 `;
+
+export const GET_LOCATION = gql`
+  query getLocation($id: Int) {
+    attraction(id: $id) {
+      id
+      name
+      introduction
+      open_time
+      distric
+      address
+      tel
+      email
+      fax
+      official_site
+      facebook
+      ticket
+      remind
+      category {
+        name
+      }
+      images {
+        src
+        ext
+      }
+    }
+  }
+`;

@@ -4,6 +4,7 @@ import styled from "styled-components";
 import { useQuery } from "@apollo/client";
 import { GET_LOCATIONS } from "../../schema/schema";
 import { PageWrapper } from "./Home";
+import SingleAttractionModal from "../common/SingleAttractionModal";
 
 const taipeiDistric = [
   "中正區",
@@ -40,6 +41,14 @@ const Attractions = () => {
   const [searchNameValue, setSearchNameValue] = useState("");
   const [searchCategory, setSearchCategory] = useState([]);
   const [searchDistric, setSearchDistric] = useState("");
+
+  // modal
+  const [show, setShow] = useState(false);
+  const handleClose = () => setShow(false);
+  const handleShow = () => setShow(true);
+  const [attractionId, setAttractionId] = useState(null);
+
+  // hook
   const { data } = useQuery(GET_LOCATIONS, {
     variables: {
       name: searchNameValue,
@@ -48,6 +57,7 @@ const Attractions = () => {
     },
   });
   console.log(data?.attractions);
+  
   return (
     <PageWrapper>
       <SearchContainer>
@@ -113,7 +123,13 @@ const Attractions = () => {
         {data?.attractions.length ? (
           data?.attractions.map((item, index) => {
             return (
-              <Card key={`${item.name}${index}`}>
+              <Card
+                key={`${item.name}${index}`}
+                onClick={() => {
+                  handleShow();
+                  setAttractionId(item.id);
+                }}
+              >
                 <CardImgWrapper>
                   <CardImg
                     src={
@@ -140,6 +156,15 @@ const Attractions = () => {
           <NoMatchText>目前搜尋條件無符合項目</NoMatchText>
         )}
       </AttractionsContainer>
+      {attractionId ? (
+        <SingleAttractionModal
+          show={show}
+          handleClose={handleClose}
+          attractionId={attractionId}
+        />
+      ) : (
+        <></>
+      )}
     </PageWrapper>
   );
 };
